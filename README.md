@@ -1,4 +1,4 @@
-# Style guides in COOKPAD
+# Style guides in Rights
 
 ## Guides
 
